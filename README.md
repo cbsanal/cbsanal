@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Can Berk</h1>
 <h3 align="left">Trying to be a Full Stack Web Developer</h3>
 
-- 🔭 I’m currently working on **Github Analyzer Website**
+- 🔭 I’m currently working on **Minesweeper Project**
 
-- 🌱 I’m currently learning **React, Redux**
+- 🌱 I’m currently learning **TypeScript, React, Redux**
 
 - 📫 How to reach me **sanalcanberk@gmail.com**
 
